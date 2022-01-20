@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ballPhysics", "ballPhysics\ballPhysics.csproj", "{D3823444-5078-46C3-BEE1-66A105F2A06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3823444-5078-46C3-BEE1-66A105F2A06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3823444-5078-46C3-BEE1-66A105F2A06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3823444-5078-46C3-BEE1-66A105F2A06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3823444-5078-46C3-BEE1-66A105F2A06C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0E47EF7-5A71-40F0-8F8B-B82853E8C411}
+	EndGlobalSection
+EndGlobal
