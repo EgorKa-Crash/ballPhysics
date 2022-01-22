@@ -129,6 +129,7 @@ namespace ballPhysics
                 double Vn2 = dxSpeed * sin + dySpeed * cos;
                 //double Vt1 =  -ball2.dxSpeed * e + ball2.dySpeed * s;
                 double Vt2 = -dxSpeed * cos + dySpeed * sin;
+                 
 
                 double dd = d + 20;
                 Vn2 = Vn2 - (1 / ((dd * dd) + 1)) * ObjectsGravityCoef;
